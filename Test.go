@@ -15,6 +15,3 @@ func Test() {
 	fmt.Println("Hello", name, "your age is", age)
 }
 
-func main() {
-	Test()
-}
